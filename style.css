@@ -1,0 +1,33 @@
+.calname{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 34px;
+  }
+button{
+    font-size: 34px;
+    background-color: rgb(188 167 210);
+       border-radius: 20px;
+    width: 103px;
+    height: 75px;
+
+}
+input{
+    border: 3px solid rgb(27, 25, 21);
+    border-radius: 20px;
+    height: 75px;
+}
+.calculator{
+    background-color: #8b7298;
+    padding: 15px;
+    border-radius: 20px;
+    display: inline-block;
+    border: 4px solid red;
+}
+
