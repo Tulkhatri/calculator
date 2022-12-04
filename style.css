@@ -7,9 +7,6 @@
 table{
     margin: auto;
 }
-input{
-    font-size: 34px;
-  }
 button{
     font-size: 34px;
     background-color: rgb(188 167 210);
@@ -22,7 +19,9 @@ input{
     border: 3px solid rgb(27, 25, 21);
     border-radius: 20px;
     height: 75px;
-}
+    font-size: 34px;
+    text-align: right;
+  }
 .calculator{
     background-color: #8b7298;
     padding: 15px;
